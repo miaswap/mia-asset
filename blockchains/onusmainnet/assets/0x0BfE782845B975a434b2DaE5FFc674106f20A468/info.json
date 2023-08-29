@@ -1,0 +1,13 @@
+{
+  "name": "Athena - WC - England",
+  "type": "ERC20",
+  "id": "0x0BfE782845B975a434b2DaE5FFc674106f20A468",
+  "symbol": "ENG",
+  "decimals": 18,
+  "status": "active",
+  "website": "",
+  "description": "",
+  "tags": [],
+  "links": [],
+  "explorer": "https://explorer.onuschain.io/token/0x0BfE782845B975a434b2DaE5FFc674106f20A468"
+}
